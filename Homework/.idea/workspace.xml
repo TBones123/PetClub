@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65b04894-53db-4a8b-b43f-ae4417a5fe13" name="Default" comment="new">
+      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/filetypes.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Pet_Club/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Pet_Club/ZooClub.java" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_12oktober2017/Classwork.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_17oktober2017_lesson2/Classwork_13oktober2017_lesson2.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_18oktober2017_lesson4/Massiv.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_2030_lesson_collection/Car.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_2030_lesson_collection/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_20oktober2017_lesson5/Massiv2.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_20oktober2017_lesson5/Xxx.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_23oktober2017_lesson6/Account.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_23oktober2017_lesson6/Interface/Animal.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_23oktober2017_lesson6/Interface/Cat.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_23oktober2017_lesson6/Interface/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_23oktober2017_lesson6/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_25oktober2017_lesson7_interface/HunterKnife.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_25oktober2017_lesson7_interface/KitchenKnife.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_25oktober2017_lesson7_interface/Knife.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_25oktober2017_lesson7_interface/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_25oktober2017_lesson7_interface/interface_vampir/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_25oktober2017_lesson7_interface/interface_vampir/Policeman.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_25oktober2017_lesson7_interface/interface_vampir/Student.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_25oktober2017_lesson7_interface/interface_vampir/Vampir.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_30oktober2017_Agregation_composition/Car.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_30oktober2017_Agregation_composition/Engine.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_30oktober2017_Agregation_composition/House/Adress.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_30oktober2017_Agregation_composition/House/Flat.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_30oktober2017_Agregation_composition/House/House.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_30oktober2017_Agregation_composition/House/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_30oktober2017_Agregation_composition/House/Person.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_30oktober2017_Agregation_composition/House/Section.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_30oktober2017_Agregation_composition/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_3november2017_collections/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_3november2017_collections/Person.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_7november2017_CollectionMap/CollectionList/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_7november2017_CollectionMap/CollectionList/Person.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_7november2017_CollectionMap/CollectionList/SortbyChoise.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_7november2017_CollectionMap/CollectionList/SortbyName.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_7november2017_CollectionMap/CollectionMap/Coctail.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_7november2017_CollectionMap/CollectionMap/Liquid.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_7november2017_CollectionMap/CollectionMap/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_9november2017_Singleton/ddddd.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_9november2017_Singleton/single/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Classwork_9november2017_Singleton/single/Person.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Head_first_java/Homework_2030_collection/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Head_first_java/Homework_2030_collection/Person.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Head_first_java/Homework_2030_collection/PetClub.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Head_first_java/Homework_2030_collection/ZooClub.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Head_first_java/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Head_first_java/User.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/DZ" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex1/Cpu.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex1/Keyboard.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex1/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex1/Mouse.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex1/Ozu.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex1/PC.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex1/SystemUnit.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex1/VideoCard.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex2/Animals.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex2/Mail.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex2/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex2/Persons.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex3/Company.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex3/Departament.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex3/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex3/Worker.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex4/Application.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex4/Client.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex4/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_02112017_composition/ex4/Passport.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_191017_array/DZ" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_191017_array/Homework.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_231017_extended/Desktop.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_231017_extended/Laptop.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_231017_extended/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_231017_extended/PersonalComputer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_25oktober2017_interface/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_25oktober2017_interface/Marker.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_25oktober2017_interface/Pen.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_25oktober2017_interface/Pencil.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_25oktober2017_interface/Write.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_28oktober2017_interface/DZ" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_28oktober2017_interface/Homework1/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_28oktober2017_interface/Homework1/Measege_a.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_28oktober2017_interface/Homework1/Measege_y.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_28oktober2017_interface/Homework1/toMessege.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_28oktober2017_interface/Homework2/ArrayCreate1.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_28oktober2017_interface/Homework2/ArrayCreate2.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_28oktober2017_interface/Homework2/ArrayCreator.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_28oktober2017_interface/Homework2/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_28oktober2017_interface/Homework3/AreaFigur.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_28oktober2017_interface/Homework3/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_28oktober2017_interface/Homework3/Square.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_28oktober2017_interface/Homework3/Triangle.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_3november2017_collections/asda.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_3november2017_collections/ex1/Car.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_3november2017_collections/ex1/DZ" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_3november2017_collections/ex1/Kuzov.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_3november2017_collections/ex1/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_3november2017_collections/ex1/Rul.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_3november2017_collections/ex1/Wheel.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_3november2017_collections/ex2/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_3november2017_collections/ex2/Person.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_3november2017_collections/ex3/Driver.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_3november2017_collections/ex3/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_9november2017_verhovnarada/Deputy.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_9november2017_verhovnarada/Fraction.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_9november2017_verhovnarada/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_9november2017_verhovnarada/Person.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/Homework_9november2017_verhovnarada/VerkhovnaRada.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/JS1/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/JS1/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../../../Homework/src/JS_Homework/Homework_170118.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/Head_first_java/Homework_2030_collection/DZ" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/Head_first_java/Homework_2030_collection/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/Head_first_java/Homework_2030_collection/Person.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/Head_first_java/Homework_2030_collection/PetClub.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/Head_first_java/Homework_2030_collection/ZooClub.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Head_first_java/Homework_2030_collection/DZ" afterPath="$PROJECT_DIR$/src/Pet_Club/DZ" />
+      <change beforePath="$PROJECT_DIR$/src/Head_first_java/Homework_2030_collection/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Head_first_java/Homework_2030_collection/Person.java" afterPath="$PROJECT_DIR$/src/Pet_Club/Person.java" />
+      <change beforePath="$PROJECT_DIR$/src/Head_first_java/Homework_2030_collection/PetClub.java" afterPath="$PROJECT_DIR$/src/Pet_Club/PetClub.java" />
+      <change beforePath="$PROJECT_DIR$/src/Head_first_java/Homework_2030_collection/ZooClub.java" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Classwork_1$Main.coverage" NAME="Main Coverage Results" MODIFIED="1520024757917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Head_first_java.Homework_2030_collection.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Pet_Club/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZooClub.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pet_Club/ZooClub.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-391">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#3100#3101#0" expanded="true" />
+                <element signature="e#3136#3137#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pet_Club/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#98#99#0" expanded="true" />
+                <element signature="e#130#131#0" expanded="true" />
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#349#350#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PetClub.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pet_Club/PetClub.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="20" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>build_array</find>
+      <find>rand</find>
+      <find>ran</find>
+      <find>`</find>
+      <find>--</find>
+      <find>run</find>
+      <find>sort</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Homework_02112017_composition/ex2/Main.java" />
+        <option value="$PROJECT_DIR$/src/Homework_02112017_composition/ex2/Persons.java" />
+        <option value="$PROJECT_DIR$/src/Homework_02112017_composition/Main.java" />
+        <option value="$PROJECT_DIR$/src/Homework_02112017_composition/ex2/Mail.java" />
+        <option value="$PROJECT_DIR$/src/Homework_02112017_composition/ex3/Worker.java" />
+        <option value="$PROJECT_DIR$/src/Homework_02112017_composition/ex3/Departament.java" />
+        <option value="$PROJECT_DIR$/src/Homework_02112017_composition/ex3/Company.java" />
+        <option value="$PROJECT_DIR$/src/Homework_02112017_composition/ex3/Main.java" />
+        <option value="$PROJECT_DIR$/src/Homework_02112017_composition/DZ" />
+        <option value="$PROJECT_DIR$/src/Homework_02112017_composition/ex4/Passport.java" />
+        <option value="$PROJECT_DIR$/src/Homework_02112017_composition/ex4/Client.java" />
+        <option value="$PROJECT_DIR$/src/Homework_02112017_composition/ex4/Application.java" />
+        <option value="$PROJECT_DIR$/src/Homework_02112017_composition/ex4/Main.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_3november2017_collections/Main.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_3november2017_collections/Person.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/Person.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/SortbyName.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/SortbyChoise.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/Main.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/CollectionList/SortbyName.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/CollectionMap/Liquid.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/CollectionMap/Coctail.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/CollectionMap/Main.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_9november2017_Singleton/single/Main.java" />
+        <option value="$PROJECT_DIR$/src/Homework_3november2017_collections/ex1/DZ" />
+        <option value="$PROJECT_DIR$/src/Homework_3november2017_collections/ex1/Wheel.java" />
+        <option value="$PROJECT_DIR$/src/Homework_3november2017_collections/ex1/Kuzov.java" />
+        <option value="$PROJECT_DIR$/src/Homework_3november2017_collections/ex1/Rul.java" />
+        <option value="$PROJECT_DIR$/src/Homework_3november2017_collections/ex1/Car.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_9november2017_Singleton/single/Person.java" />
+        <option value="$PROJECT_DIR$/src/Homework_3november2017_collections/ex1/Main.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/CollectionList/Main.java" />
+        <option value="$PROJECT_DIR$/src/Homework_3november2017_collections/ex2/Person.java" />
+        <option value="$PROJECT_DIR$/src/Homework_3november2017_collections/ex3/Driver.java" />
+        <option value="$PROJECT_DIR$/src/Homework_3november2017_collections/ex3/Main.java" />
+        <option value="$PROJECT_DIR$/src/Homework_3november2017_collections/ex2/Main.java" />
+        <option value="$PROJECT_DIR$/src/Homework_9november2017_verhovnarada/Person.java" />
+        <option value="$PROJECT_DIR$/src/Homework_9november2017_verhovnarada/Deputy.java" />
+        <option value="$PROJECT_DIR$/src/Homework_9november2017_verhovnarada/Fraction.java" />
+        <option value="$PROJECT_DIR$/src/Homework_9november2017_verhovnarada/VerkhovnaRada.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_2030_lesson_collection/Car.java" />
+        <option value="$PROJECT_DIR$/src/Classwork_2030_lesson_collection/Main.java" />
+        <option value="$PROJECT_DIR$/src/Head_first_java/User.java" />
+        <option value="$PROJECT_DIR$/src/Homework_9november2017_verhovnarada/Main.java" />
+        <option value="$PROJECT_DIR$/src/Head_first_java/Main.java" />
+        <option value="$PROJECT_DIR$/src/Head_first_java/Homework_2030_collection/DZ" />
+        <option value="$PROJECT_DIR$/src/Head_first_java/Homework_2030_collection/Person.java" />
+        <option value="$PROJECT_DIR$/src/Head_first_java/Homework_2030_collection/PetClub.java" />
+        <option value="$PROJECT_DIR$/src/Head_first_java/Homework_2030_collection/Main.java" />
+        <option value="$PROJECT_DIR$/src/Head_first_java/Homework_2030_collection/ZooClub.java" />
+        <option value="$PROJECT_DIR$/src/Pet_Club/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="593" />
+    <option name="y" value="69" />
+    <option name="width" value="733" />
+    <option name="height" value="662" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Classwork_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Classwork_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Classwork_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Classwork_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Classwork_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="Pet_Club" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Classwork_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Classwork_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pet_Club" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Head_first_java.Homework_2030_collection" />
+      <recent name="Head_first_java" />
+      <recent name="Homework_3november2017_collections.ex1" />
+      <recent name="Homework_02112017_composition.ex4" />
+      <recent name="Homework_02112017_composition.ex3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Radus\Desktop\Homework\src\Homework_25oktober2017_interface\Interface" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Radus\Desktop\Homework\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Head_first_java.Homework_2030_collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Pet_Club.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Homework" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65b04894-53db-4a8b-b43f-ae4417a5fe13" name="Default" comment="" />
+      <created>1514914313730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514914313730</updated>
+      <workItem from="1514914329127" duration="4182000" />
+      <workItem from="1514920545025" duration="3428000" />
+      <workItem from="1514965469318" duration="567000" />
+      <workItem from="1515093837977" duration="13299000" />
+      <workItem from="1515692626838" duration="3020000" />
+      <workItem from="1515942191089" duration="609000" />
+      <workItem from="1516032007995" duration="5841000" />
+      <workItem from="1516122036225" duration="6125000" />
+      <workItem from="1516189214923" duration="18602000" />
+      <workItem from="1516218004970" duration="2504000" />
+      <workItem from="1516290326896" duration="4511000" />
+      <workItem from="1516295285069" duration="6164000" />
+      <workItem from="1516310846354" duration="8068000" />
+      <workItem from="1516357836766" duration="8882000" />
+      <workItem from="1516380281325" duration="1998000" />
+      <workItem from="1516525225512" duration="580000" />
+      <workItem from="1516564563594" duration="4828000" />
+      <workItem from="1516633417611" duration="8964000" />
+      <workItem from="1516649963247" duration="5769000" />
+      <workItem from="1516656482773" duration="1116000" />
+      <workItem from="1516708495239" duration="13296000" />
+      <workItem from="1516735834471" duration="576000" />
+      <workItem from="1516736971319" duration="5686000" />
+      <workItem from="1516797008016" duration="11465000" />
+      <workItem from="1516823584786" duration="5583000" />
+      <workItem from="1516902883111" duration="9508000" />
+      <workItem from="1516984050532" duration="10722000" />
+      <workItem from="1517050086177" duration="3061000" />
+      <workItem from="1517082307873" duration="5540000" />
+      <workItem from="1517159701777" duration="5950000" />
+      <workItem from="1517237103956" duration="8669000" />
+      <workItem from="1517252248582" duration="792000" />
+      <workItem from="1517260534419" duration="7054000" />
+      <workItem from="1517342252627" duration="5323000" />
+      <workItem from="1517513829447" duration="585000" />
+      <workItem from="1517594293465" duration="1565000" />
+      <workItem from="1518344981879" duration="19178000" />
+      <workItem from="1518453393050" duration="568000" />
+      <workItem from="1518466284040" duration="13000" />
+      <workItem from="1518475388035" duration="1006000" />
+      <workItem from="1518546011949" duration="1596000" />
+      <workItem from="1518598031051" duration="9352000" />
+      <workItem from="1518712327237" duration="4955000" />
+      <workItem from="1518775073139" duration="584000" />
+      <workItem from="1518941374303" duration="114000" />
+      <workItem from="1519118159565" duration="6099000" />
+      <workItem from="1519210083194" duration="5430000" />
+      <workItem from="1519228404733" duration="3207000" />
+      <workItem from="1519289675042" duration="3913000" />
+      <workItem from="1519493629184" duration="802000" />
+      <workItem from="1519636688294" duration="24010000" />
+      <workItem from="1519815458615" duration="3422000" />
+      <workItem from="1519828835726" duration="122000" />
+      <workItem from="1519829125369" duration="1782000" />
+      <workItem from="1519849975118" duration="11330000" />
+      <workItem from="1519895594692" duration="13333000" />
+      <workItem from="1520021920660" duration="107000" />
+      <workItem from="1520022948441" duration="1941000" />
+      <workItem from="1520076124934" duration="12865000" />
+      <workItem from="1520103606793" duration="7138000" />
+      <workItem from="1520161019574" duration="4239000" />
+    </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1519819142766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1519819142766</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="341538000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45666236" sideWeight="0.4947994" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35058215" sideWeight="0.21208227" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32470894" sideWeight="0.78791773" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.196875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3984476" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329375" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32729626" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35058215" sideWeight="0.21208227" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3984476" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45666236" sideWeight="0.4947994" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32470894" sideWeight="0.78791773" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329375" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47698745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32729626" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Classwork_18oktober2017_lesson4/Massiv.java</url>
+          <line>133</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Classwork_2030_lesson_collection/Main.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="55" column="19" lean-forward="false" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/dd.java" />
+    <entry file="file://$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/CollectionMap/Liquid.java" />
+    <entry file="file://$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/CollectionMap/Coctail.java" />
+    <entry file="file://$PROJECT_DIR$/src/Classwork_9november2017_Singleton/ddddd.java" />
+    <entry file="file://$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/CollectionMap/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Classwork_9november2017_Singleton/single/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_3november2017_collections/asda.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_3november2017_collections/ex1/Kuzov.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_3november2017_collections/ex1/Rul.java" />
+    <entry file="file://$PROJECT_DIR$/src/Classwork_9november2017_Singleton/single/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/CollectionList/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_02112017_composition/ex2/Mail.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_02112017_composition/ex2/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_3november2017_collections/ex1/Wheel.java" />
+    <entry file="file://$PROJECT_DIR$/src/Classwork_3november2017_collections/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/CollectionList/SortbyChoise.java" />
+    <entry file="file://$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/CollectionList/SortbyName.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_3november2017_collections/ex3/Driver.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_3november2017_collections/ex3/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_3november2017_collections/ex1/DZ" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_3november2017_collections/ex2/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_3november2017_collections/ex2/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_9november2017_verhovnarada/Person.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3687" column="0" lean-forward="false" selection-start-line="3687" selection-start-column="0" selection-end-line="3687" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/vatnik_russak.url" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_9november2017_verhovnarada/Deputy.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_9november2017_verhovnarada/VerkhovnaRada.java" />
+    <entry file="file://$PROJECT_DIR$/src/Classwork_3november2017_collections/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Classwork_7november2017_CollectionMap/CollectionList/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Classwork_2030_lesson_collection/Car.java" />
+    <entry file="file://$PROJECT_DIR$/src/Classwork_2030_lesson_collection/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Head_first_java/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_3november2017_collections/ex1/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_9november2017_verhovnarada/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_3november2017_collections/ex1/Car.java" />
+    <entry file="file://$PROJECT_DIR$/src/Homework_9november2017_verhovnarada/Fraction.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="904" column="0" lean-forward="false" selection-start-line="904" selection-start-column="0" selection-end-line="904" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="1426" column="0" lean-forward="false" selection-start-line="1426" selection-start-column="0" selection-end-line="1426" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="379" column="0" lean-forward="false" selection-start-line="379" selection-start-column="0" selection-end-line="379" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="524" column="0" lean-forward="false" selection-start-line="524" selection-start-column="0" selection-end-line="524" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="668" column="0" lean-forward="false" selection-start-line="668" selection-start-column="0" selection-end-line="668" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/io/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/io/BufferedWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Head_first_java/Main.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="165" column="11" lean-forward="false" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pet_Club/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pet_Club/PetClub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pet_Club/DZ">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="57" lean-forward="false" selection-start-line="0" selection-start-column="57" selection-end-line="0" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pet_Club/ZooClub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#3100#3101#0" expanded="true" />
+            <element signature="e#3136#3137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pet_Club/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
